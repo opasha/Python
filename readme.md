@@ -1,1 +1,1 @@
-# Learning python and python_oop
+# Learning python and python_oop from Clever Programmer Academy
